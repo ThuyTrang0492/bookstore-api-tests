@@ -1,0 +1,1486 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Cuộc Đời Của Cô Gái Trẻ",
+      "author": "Hỏa Tinh",
+      "price": 50000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "2",
+      "title": "Cho tôi xin một vé đi tuổi thơ",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 85000,
+      "category": "Văn học nước ngoài",
+      "stock": 99,
+      "rating": 4,
+      "publishedYear": 2008,
+      "status": "available"
+    },
+    {
+      "id": "3",
+      "title": "Mắc biếc",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 75000,
+      "category": "Văn học nước ngoài",
+      "stock": 139,
+      "rating": 4.1,
+      "publishedYear": 2008,
+      "status": "available"
+    },
+    {
+      "id": "4",
+      "title": "Ngồi khóc trên cây",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 85000,
+      "category": "Phát triển bản thân",
+      "stock": 5,
+      "rating": 3.6,
+      "publishedYear": 2012,
+      "status": "available"
+    },
+    {
+      "id": "5",
+      "title": "Kính vạn hoa",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 120000,
+      "category": "Tiểu thuyết",
+      "stock": 195,
+      "rating": 4.2,
+      "publishedYear": 2014,
+      "status": "available"
+    },
+    {
+      "id": "6",
+      "title": "Con chó nhỏ mang giỏ hoa hồng",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 92000,
+      "category": "Phát triển bản thân",
+      "stock": 191,
+      "rating": 4.2,
+      "publishedYear": 1995,
+      "status": "available"
+    },
+    {
+      "id": "7",
+      "title": "Mắc biếc",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 98000,
+      "category": "Kinh doanh",
+      "stock": 95,
+      "rating": 4.6,
+      "publishedYear": 2022,
+      "status": "available"
+    },
+    {
+      "id": "8",
+      "title": "Lá nằm trong lá",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 105000,
+      "category": "Lịch sử",
+      "stock": 77,
+      "rating": 4.6,
+      "publishedYear": 2006,
+      "status": "available"
+    },
+    {
+      "id": "9",
+      "title": "Cô gái đến từ hôm qua",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 90000,
+      "category": "Thiếu nhi",
+      "stock": 35,
+      "rating": 4.4,
+      "publishedYear": 2010,
+      "status": "available"
+    },
+    {
+      "id": "10",
+      "title": "Phía sau một cô gái",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 95000,
+      "category": "Phát triển bản thân",
+      "stock": 128,
+      "rating": 3.7,
+      "publishedYear": 2014,
+      "status": "available"
+    },
+    {
+      "id": "11",
+      "title": "Người thầy đầu tiên",
+      "author": "Tôn Đức",
+      "price": 60000,
+      "category": "Giáo dục",
+      "stock": 33,
+      "rating": 4.9,
+      "publishedYear": 2008,
+      "status": "available"
+    },
+    {
+      "id": "12",
+      "title": "Lão Hạc",
+      "author": "Nam Cao",
+      "price": 45000,
+      "category": "Thiếu nhi",
+      "stock": 195,
+      "rating": 4.1,
+      "publishedYear": 2006,
+      "status": "available"
+    },
+    {
+      "id": "13",
+      "title": "Chí Phèo",
+      "author": "Nam Cao",
+      "price": 48000,
+      "category": "Lịch sử",
+      "stock": 85,
+      "rating": 3.7,
+      "publishedYear": 1998,
+      "status": "available"
+    },
+    {
+      "id": "14",
+      "title": "Số đỏ",
+      "author": "Vũ Trọng Phụng",
+      "price": 70000,
+      "category": "Văn học Việt Nam",
+      "stock": 62,
+      "rating": 4.8,
+      "publishedYear": 1995,
+      "status": "available"
+    },
+    {
+      "id": "15",
+      "title": "Tắt đèn",
+      "author": "Ngô Tất Tố",
+      "price": 65000,
+      "category": "Văn học Việt Nam",
+      "stock": 68,
+      "rating": 3.9,
+      "publishedYear": 2019,
+      "status": "available"
+    },
+    {
+      "id": "16",
+      "title": "Dế mèn phiêu lưu ký",
+      "author": "Tô Hoài",
+      "price": 55000,
+      "category": "Lịch sử",
+      "stock": 55,
+      "rating": 3.9,
+      "publishedYear": 2014,
+      "status": "available"
+    },
+    {
+      "id": "17",
+      "title": "Tuổi thơ dữ dội",
+      "author": "Phùng Quán",
+      "price": 95000,
+      "category": "Kinh doanh",
+      "stock": 151,
+      "rating": 3.8,
+      "publishedYear": 2009,
+      "status": "available"
+    },
+    {
+      "id": "18",
+      "title": "Những người khốn khổ",
+      "author": "Victor Hugo",
+      "price": 130000,
+      "category": "Tiểu thuyết",
+      "stock": 56,
+      "rating": 4.5,
+      "publishedYear": 1997,
+      "status": "available"
+    },
+    {
+      "id": "19",
+      "title": "Thép đã tôi thế đấy",
+      "author": "Nikolai A. Ostrovsky",
+      "price": 110000,
+      "category": "Tiểu thuyết",
+      "stock": 133,
+      "rating": 3.8,
+      "publishedYear": 2014,
+      "status": "available"
+    },
+    {
+      "id": "20",
+      "title": "Chiến tranh và hoà bình",
+      "author": "Lev Tolstoy",
+      "price": 145000,
+      "category": "Kỹ năng sống",
+      "stock": 150,
+      "rating": 4.4,
+      "publishedYear": 2010,
+      "status": "available"
+    },
+    {
+      "id": "21",
+      "title": "Harry Potter và Hòn đá Phù thủy",
+      "author": "J.K. Rowling",
+      "price": 99000,
+      "category": "Văn học nước ngoài",
+      "stock": 84,
+      "rating": 3.5,
+      "publishedYear": 1998,
+      "status": "available"
+    },
+    {
+      "id": "22",
+      "title": "Harry Potter và Phòng chứa Bí mật",
+      "author": "J.K. Rowling",
+      "price": 105000,
+      "category": "Tâm lý",
+      "stock": 180,
+      "rating": 3.2,
+      "publishedYear": 2000,
+      "status": "available"
+    },
+    {
+      "id": "23",
+      "title": "Harry Potter và Tù nhân ngục Azkaban",
+      "author": "J.K. Rowling",
+      "price": 110000,
+      "category": "Kinh doanh",
+      "stock": 3,
+      "rating": 3.5,
+      "publishedYear": 1995,
+      "status": "available"
+    },
+    {
+      "id": "24",
+      "title": "Harry Potter và Chiếc cốc lửa",
+      "author": "J.K. Rowling",
+      "price": 120000,
+      "category": "Văn học Việt Nam",
+      "stock": 94,
+      "rating": 3.2,
+      "publishedYear": 2011,
+      "status": "available"
+    },
+    {
+      "id": "25",
+      "title": "Harry Potter và Hội Phượng Hoàng",
+      "author": "J.K. Rowling",
+      "price": 130000,
+      "category": "Tiểu thuyết",
+      "stock": 18,
+      "rating": 4.5,
+      "publishedYear": 2020,
+      "status": "available"
+    },
+    {
+      "id": "26",
+      "title": "Harry Potter và Hoàng tử lai",
+      "author": "J.K. Rowling",
+      "price": 125000,
+      "category": "Tiểu thuyết",
+      "stock": 195,
+      "rating": 3.6,
+      "publishedYear": 2002,
+      "status": "available"
+    },
+    {
+      "id": "27",
+      "title": "Harry Potter và Bảo bối Tử thần",
+      "author": "J.K. Rowling",
+      "price": 135000,
+      "category": "Tiểu thuyết",
+      "stock": 109,
+      "rating": 4.1,
+      "publishedYear": 1994,
+      "status": "available"
+    },
+    {
+      "id": "28",
+      "title": "Đắc nhân tâm",
+      "author": "Dale Carnegie",
+      "price": 90000,
+      "category": "Kỹ năng sống",
+      "stock": 159,
+      "rating": 4.6,
+      "publishedYear": 1995,
+      "status": "available"
+    },
+    {
+      "id": "29",
+      "title": "Bí mật của may mắn",
+      "author": "Alex Rovira",
+      "price": 68000,
+      "category": "Tâm lý",
+      "stock": 148,
+      "rating": 3.9,
+      "publishedYear": 2017,
+      "status": "available"
+    },
+    {
+      "id": "30",
+      "title": "Nhà giả kim",
+      "author": "Paulo Coelho",
+      "price": 99000,
+      "category": "Văn học Việt Nam",
+      "stock": 97,
+      "rating": 3,
+      "publishedYear": 2000,
+      "status": "available"
+    },
+    {
+      "id": "31",
+      "title": "Hoàng tử bé",
+      "author": "Antoine de Saint-Exupéry",
+      "price": 85000,
+      "category": "Tâm lý",
+      "stock": 12,
+      "rating": 3.6,
+      "publishedYear": 2001,
+      "status": "available"
+    },
+    {
+      "id": "32",
+      "title": "Đi tìm lẽ sống",
+      "author": "Viktor E. Frankl",
+      "price": 96000,
+      "category": "Văn học Việt Nam",
+      "stock": 42,
+      "rating": 4.7,
+      "publishedYear": 1996,
+      "status": "available"
+    },
+    {
+      "id": "33",
+      "title": "7 thói quen của bạn trẻ thành đạt",
+      "author": "Sean Covey",
+      "price": 98000,
+      "category": "Thiếu nhi",
+      "stock": 117,
+      "rating": 3.4,
+      "publishedYear": 2011,
+      "status": "available"
+    },
+    {
+      "id": "34",
+      "title": "Tư duy nhanh và chậm",
+      "author": "Daniel Kahneman",
+      "price": 145000,
+      "category": "Phát triển bản thân",
+      "stock": 12,
+      "rating": 3.3,
+      "publishedYear": 2000,
+      "status": "available"
+    },
+    {
+      "id": "35",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 119000,
+      "category": "Thiếu nhi",
+      "stock": 167,
+      "rating": 4.2,
+      "publishedYear": 2017,
+      "status": "available"
+    },
+    {
+      "id": "36",
+      "title": "Cha giàu cha nghèo",
+      "author": "Robert Kiyosaki",
+      "price": 115000,
+      "category": "Lịch sử",
+      "stock": 10,
+      "rating": 4.3,
+      "publishedYear": 2020,
+      "status": "available"
+    },
+    {
+      "id": "37",
+      "title": "Dạy con làm giàu",
+      "author": "Robert Kiyosaki",
+      "price": 117000,
+      "category": "Kỹ năng sống",
+      "stock": 91,
+      "rating": 3.8,
+      "publishedYear": 2022,
+      "status": "available"
+    },
+    {
+      "id": "38",
+      "title": "Quẳng gánh lo đi và vui sống",
+      "author": "Dale Carnegie",
+      "price": 87000,
+      "category": "Thiếu nhi",
+      "stock": 75,
+      "rating": 5,
+      "publishedYear": 2003,
+      "status": "available"
+    },
+    {
+      "id": "39",
+      "title": "Cà phê cùng Tony",
+      "author": "Tony Buổi Sáng",
+      "price": 79000,
+      "category": "Thiếu nhi",
+      "stock": 18,
+      "rating": 3.9,
+      "publishedYear": 2012,
+      "status": "available"
+    },
+    {
+      "id": "40",
+      "title": "Trên đường băng",
+      "author": "Tony Buổi Sáng",
+      "price": 83000,
+      "category": "Giáo dục",
+      "stock": 24,
+      "rating": 4.6,
+      "publishedYear": 2002,
+      "status": "available"
+    },
+    {
+      "id": "41",
+      "title": "Sapiens: Lược sử loài người",
+      "author": "Yuval Noah Harari",
+      "price": 150000,
+      "category": "Thiếu nhi",
+      "stock": 17,
+      "rating": 3.7,
+      "publishedYear": 2023,
+      "status": "available"
+    },
+    {
+      "id": "42",
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "price": 155000,
+      "category": "Giáo dục",
+      "stock": 90,
+      "rating": 3.9,
+      "publishedYear": 1997,
+      "status": "available"
+    },
+    {
+      "id": "43",
+      "title": "21 bài học cho thế kỷ 21",
+      "author": "Yuval Noah Harari",
+      "price": 149000,
+      "category": "Tâm lý",
+      "stock": 179,
+      "rating": 3.7,
+      "publishedYear": 2015,
+      "status": "available"
+    },
+    {
+      "id": "44",
+      "title": "Không gia đình",
+      "author": "Hector Malot",
+      "price": 95000,
+      "category": "Tiểu thuyết",
+      "stock": 76,
+      "rating": 4.2,
+      "publishedYear": 2012,
+      "status": "available"
+    },
+    {
+      "id": "45",
+      "title": "Cuộc đời của Pi",
+      "author": "Yann Martel",
+      "price": 102000,
+      "category": "Kỹ năng sống",
+      "stock": 12,
+      "rating": 4.4,
+      "publishedYear": 1999,
+      "status": "available"
+    },
+    {
+      "id": "46",
+      "title": "Mật mã Da Vinci",
+      "author": "Dan Brown",
+      "price": 110000,
+      "category": "Văn học nước ngoài",
+      "stock": 87,
+      "rating": 4.5,
+      "publishedYear": 1992,
+      "status": "available"
+    },
+    {
+      "id": "47",
+      "title": "Thiên thần và ác quỷ",
+      "author": "Dan Brown",
+      "price": 112000,
+      "category": "Giáo dục",
+      "stock": 63,
+      "rating": 3.4,
+      "publishedYear": 2012,
+      "status": "available"
+    },
+    {
+      "id": "48",
+      "title": "Biểu tượng thất truyền",
+      "author": "Dan Brown",
+      "price": 109000,
+      "category": "Giáo dục",
+      "stock": 29,
+      "rating": 4.7,
+      "publishedYear": 2005,
+      "status": "available"
+    },
+    {
+      "id": "49",
+      "title": "Pháo đài số",
+      "author": "Dan Brown",
+      "price": 101000,
+      "category": "Lịch sử",
+      "stock": 131,
+      "rating": 3.9,
+      "publishedYear": 1995,
+      "status": "available"
+    },
+    {
+      "id": "50",
+      "title": "Cuộc Đời Của Cô Gái Trẻ",
+      "author": "Hỏa Tinh",
+      "price": 50000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "51",
+      "title": "Thời gian",
+      "author": "Gabriel García Márquez",
+      "price": 40000,
+      "category": "Tiểu thuyết",
+      "stock": 20,
+      "rating": 4,
+      "publishedYear": 1967,
+      "status": "out_of_stock"
+    },
+    {
+      "id": "52",
+      "title": "Cuộc Đời Của Cô Gái Trẻ",
+      "author": "Hỏa Tinh",
+      "price": 50000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": "abc",
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "58",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "status": "available"
+    },
+    {
+      "id": "59",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "author": "Gabriel García Márquez",
+      "status": "available"
+    },
+    {
+      "id": "60",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "price": 60000,
+      "status": "available"
+    },
+    {
+      "id": "61",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "category": "Tiểu thuyết",
+      "status": "available"
+    },
+    {
+      "id": "62",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "63",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "64",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "65",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "66",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "out-of-stock"
+    },
+    {
+      "id": "67",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "68",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "status": "available"
+    },
+    {
+      "id": "69"
+    },
+    {
+      "id": "70",
+      "title": "Tôi thấy hoa vàng trên cỏ xanh update",
+      "author": "Gabriel García Márquez",
+      "price": 60000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "out_of_stock"
+    },
+    {
+      "id": "72",
+      "title": "Cuộc Đời Của Cô Gái Trẻ",
+      "author": "Hỏa Tinh",
+      "price": 50000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "73",
+      "title": "Mùa Hạ Năm Đó",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "74",
+      "title": "Ánh Mắt Chính Là Câu Trả Lời",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "75",
+      "title": "Ánh Mắt Chính Là Câu Trả Lời",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "76",
+      "title": "Ánh Mắt Chính Là Câu Trả Lời",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "77",
+      "title": "Cuộc Đời Của Cô Gái Trẻ",
+      "author": "Hỏa Tinh",
+      "price": 50000,
+      "category": "Tiểu thuyết",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "out_of_stock"
+    },
+    {
+      "id": "78",
+      "status": "out_of_stock"
+    },
+    {
+      "id": "79",
+      "title": "Ánh Mắt Chính Là Câu Trả Lời",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "80",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 60000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 5,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "81",
+      "title": "Ánh Mắt Kẻ Si Tình",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 70000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 4,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "82",
+      "title": "Ánh Mắt Kẻ Si Tình",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 70000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 4,
+      "publishedYear": 2025,
+      "status": "out_of_stock"
+    },
+    {
+      "id": "83",
+      "title": "Trở lại",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 70000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 4,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "84",
+      "title": "Trở lại",
+      "author": "Nguyễn Thị Thùy Trang",
+      "price": 70000,
+      "category": "Đời Sống",
+      "stock": 6,
+      "rating": 4,
+      "publishedYear": 2025,
+      "status": "available"
+    },
+    {
+      "id": "85"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "asvjdfk@a",
+      "role": "admin",
+      "fullName": "admin",
+      "email": "admin@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "username": "trang123",
+      "password": "Duc1234a@1",
+      "role": "user",
+      "fullName": "Nguyễn Thùy Trang",
+      "email": "trang123@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "username": "ly123",
+      "password": "abcdefg@h",
+      "role": "user",
+      "fullName": "Nguyễn Thị Cẩm Ly",
+      "email": "ly123@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "username": "nhu123",
+      "password": "asdfgh@jkl",
+      "role": "admin",
+      "fullName": "Huỳnh Như",
+      "email": "nhu123@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "username": "Trang",
+      "password": "asdfk@l123",
+      "role": "user",
+      "fullname": "Nguyễn Trang",
+      "email": "thitrang@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "6",
+      "username": "Duc",
+      "password": "Duc1234a@1",
+      "role": "user",
+      "fullname": "Nguyễn Minh Đức",
+      "email": "ducnguyen@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "7",
+      "username": "Nhung",
+      "password": "Nhung@123",
+      "role": "admin",
+      "fullname": "Nguyễn Hồng Nhung",
+      "email": "nhungnguyen@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "8",
+      "username": "Minh",
+      "password": "Minh@123",
+      "role": "admin",
+      "fullname": "Nguyễn Minh",
+      "email": "minhnguyen@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "9",
+      "username": "Hau",
+      "password": "password123@",
+      "role": "user",
+      "fullname": "Trần Minh Hậu",
+      "email": "hautran@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    },
+    {
+      "id": "10",
+      "username": "Lien",
+      "password": "Lien@123",
+      "role": "admin",
+      "fullname": "Trần Kim Liên",
+      "email": "lientran@gmail.com",
+      "address": "Việt Nam",
+      "status": "unactive"
+    },
+    {
+      "id": "11",
+      "username": "Cuong",
+      "password": "Cuong1234@",
+      "role": "admin",
+      "fullname": "Trần Minh Cường",
+      "email": "cuongtran@gmail.com",
+      "address": "Việt Nam",
+      "status": "active"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "bookId": "41",
+      "userId": 2,
+      "comment": "Tuyệt vời",
+      "rating": 4,
+      "createdAt": "2025-05-19T15:39:21.718454"
+    },
+    {
+      "id": "2",
+      "bookId": "10",
+      "userId": 2,
+      "comment": "Đạt chuẩn",
+      "rating": 5,
+      "createdAt": "2025-05-19T15:39:21.718467"
+    },
+    {
+      "id": "3",
+      "bookId": "15",
+      "userId": 2,
+      "comment": "Đạt chuẩn",
+      "rating": 5,
+      "createdAt": "2025-05-19T15:39:21.718467"
+    },
+    {
+      "id": "4",
+      "bookId": "6",
+      "userId": 2,
+      "comment": "Đạt chuẩn",
+      "rating": 5,
+      "createdAt": "2025-05-19T15:39:21.718467"
+    },
+    {
+      "id": "5",
+      "bookId": "14",
+      "userId": 2,
+      "rating": 5,
+      "comment": "Cuốn sách thực sự truyền cảm hứng!",
+      "createdAt": "2025-06-23T15:08:07.568Z"
+    },
+    {
+      "id": "6",
+      "bookId": "14",
+      "userId": 2,
+      "rating": 5,
+      "comment": "Cuốn sách hay!",
+      "createdAt": "2025-06-23T15:08:46.343Z"
+    },
+    {
+      "id": "10",
+      "bookId": "15",
+      "userId": 1,
+      "rating": 4.6,
+      "comment": "Cuốn sách hay!",
+      "createdAt": "2025-06-24T05:42:20.611Z"
+    },
+    {
+      "id": "11",
+      "bookId": "10",
+      "userId": 1,
+      "rating": 4.6,
+      "comment": "Cuốn sách hay!",
+      "createdAt": "2025-06-25T05:00:09.818Z"
+    },
+    {
+      "id": "12",
+      "bookId": "9",
+      "userId": 1,
+      "rating": 4.6,
+      "comment": "Cuốn sách tuyệt!",
+      "createdAt": "2025-06-29T05:32:57.833Z"
+    },
+    {
+      "id": "13",
+      "bookId": "1",
+      "userId": 1,
+      "rating": 4.6,
+      "comment": "Cuốn sách tuyệt!",
+      "createdAt": "2025-06-30T12:06:07.662Z"
+    },
+    {
+      "id": "14",
+      "bookId": "6",
+      "userId": 1,
+      "rating": 4.6,
+      "comment": "Cuốn sách tuyệt!",
+      "createdAt": "2025-06-30T12:07:35.326Z"
+    },
+    {
+      "id": "15",
+      "bookId": "6",
+      "userId": 3,
+      "rating": 4,
+      "comment": "Cuốn sách tuyệt!",
+      "createdAt": "2025-06-30T12:08:15.279Z"
+    },
+    {
+      "id": "16",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-06-30T12:46:07.501Z"
+    },
+    {
+      "id": "17",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-06-30T18:23:38.580Z"
+    },
+    {
+      "id": "18",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-06-30T19:03:16.160Z"
+    },
+    {
+      "id": "19",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-06-30T19:23:43.076Z"
+    },
+    {
+      "id": "20",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-07-01T00:58:59.803Z"
+    },
+    {
+      "id": "21",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-07-01T04:17:15.295Z"
+    },
+    {
+      "id": "22",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-07-01T04:43:03.069Z"
+    },
+    {
+      "id": "23",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": "2025-07-03T09:11:19.580Z"
+    },
+    {
+      "id": "24",
+      "bookId": "66",
+      "userId": 6,
+      "rating": 3,
+      "comment": "Sách cuốn rất",
+      "createdAt": ""
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "49",
+          "quantity": 3
+        },
+        {
+          "bookId": "14",
+          "quantity": 2
+        },
+        {
+          "bookId": "40",
+          "quantity": 3
+        },
+        {
+          "bookId": "46",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718747",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "14",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718759",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "3",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "15",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718769",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "userId": 1,
+      "items": [
+        {
+          "bookId": "22",
+          "quantity": 1
+        },
+        {
+          "bookId": "15",
+          "quantity": 3
+        },
+        {
+          "bookId": "25",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718782",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "5",
+      "userId": 3,
+      "items": [
+        {
+          "bookId": "22",
+          "quantity": 2
+        },
+        {
+          "bookId": "34",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718793",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "6",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "47",
+          "quantity": 3
+        },
+        {
+          "bookId": "38",
+          "quantity": 3
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718804",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "7",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "16",
+          "quantity": 1
+        },
+        {
+          "bookId": "29",
+          "quantity": 2
+        },
+        {
+          "bookId": "27",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718818",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "8",
+      "userId": 3,
+      "items": [
+        {
+          "bookId": "26",
+          "quantity": 2
+        },
+        {
+          "bookId": "5",
+          "quantity": 1
+        },
+        {
+          "bookId": "43",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718833",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "9",
+      "userId": 1,
+      "items": [
+        {
+          "bookId": "15",
+          "quantity": 2
+        },
+        {
+          "bookId": "33",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718846",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "10",
+      "userId": 3,
+      "items": [
+        {
+          "bookId": "36",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-05-19T15:39:21.718855",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "11",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "54",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-06-24T08:57:25.778Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "12",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "54",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-06-24T09:12:16.983Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "13",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-06-25T05:14:16.376Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "15",
+      "userId": 1,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2025-06-25T05:17:34.678Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "17",
+      "userId": 4,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2025-06-25T05:28:15.891Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "18",
+      "userId": 5,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2025-06-25T05:28:28.614Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "19",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "55",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2025-06-25T05:29:59.778Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "20",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "100",
+          "quantity": 5
+        }
+      ],
+      "createdAt": "2025-06-25T05:34:35.297Z",
+      "shippingMethod": "standard",
+      "role": "admin"
+    },
+    {
+      "id": "21",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T03:25:56.135Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "22",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T09:02:35.559Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "23",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T09:09:17.758Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "24",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T09:14:38.141Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "25",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T09:29:07.811Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    },
+    {
+      "id": "26",
+      "userId": 2,
+      "items": [
+        {
+          "bookId": "1",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-07-04T09:33:06.360Z",
+      "shippingMethod": "standard",
+      "role": "user"
+    }
+  ]
+}
